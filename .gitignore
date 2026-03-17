@@ -156,6 +156,7 @@ yarn-error.log*
 KIS/
 .master/
 .kis_token*.json
+kis_devlp.yaml
 
 # ===== Lean workspace =====
 .lean-workspace/
