@@ -177,3 +177,4 @@ backtester/examples/output/*.py
 settings.local.json
 
 .serena/
+kis_devlp.yaml
